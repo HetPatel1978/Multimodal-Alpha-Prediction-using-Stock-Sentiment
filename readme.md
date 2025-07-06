@@ -152,17 +152,9 @@ python train_baseline_model.py
 
 ---
 
----
-
-## 📌 Sample Resume Line
-
-> Developed a multimodal sentiment-based alpha prediction pipeline using news, Reddit, Google Trends, and stock prices. Merged and modeled real-time data for financial signal generation. Built foundation for benchmark-based alpha scoring and backtesting.
-
----
-
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or check out my other finance projects on [GitHub](https://github.com/yourgithub).
+https://www.linkedin.com/in/hetpatel093/
 
 ---
 
