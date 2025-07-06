@@ -1,0 +1,40 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.env
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data folders (generated or sensitive)
+data/news/
+data/reddit/
+data/trends/
+data/price/
+data/merged/
+
+# Credentials or secrets (optional)
+*.env
+*.key
+*.token
+
+# OS + Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs or runtime artifacts
+*.log
+*.tmp
+*.bak
+
+QF_env

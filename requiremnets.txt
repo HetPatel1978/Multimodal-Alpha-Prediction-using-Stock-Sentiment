@@ -1,0 +1,20 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+matplotlib
+
+# NLP & Sentiment
+nltk
+
+# APIs & Scrapers
+newsapi-python
+praw
+pytrends
+yfinance
+
+# Optional for plotting/debugging (if used)
+seaborn
+
+# Other
+python-dotenv  # (optional if you want to secure your API keys later)
